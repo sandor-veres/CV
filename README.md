@@ -3,7 +3,7 @@
 ## Contact Information
 - **Email**: sandorv.sac@gmail.com
 - **Phone**: +36702430907
-- **LinkedIn**: [linkedin.com/in/sandor-veres-0aa662151](https://hu.linkedin.com/in/sandor-veres-0aa662151)
+- **LinkedIn**: [linkedin](https://hu.linkedin.com/in/sandor-veres-0aa662151)
 
 ## Skills
 - SAP Development (ABAP, UI5, CDS, RAP)
