@@ -3,7 +3,7 @@
 ## Contact Information
 - **Email**: sandorv.sac@gmail.com
 - **Phone**: +36702430907
-- **LinkedIn**: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- **LinkedIn**: [linkedin.com/in/sandor-veres-0aa662151](https://hu.linkedin.com/in/sandor-veres-0aa662151)
 
 ## Skills
 - SAP Development (ABAP, UI5, CDS, RAP)
@@ -31,7 +31,7 @@
 
 ## Experience
 ### SAP Senior SAP/FIORI developer specialist
-**Accenture Kft, Hungary** 2018-
+**Accenture Kft, Hungary** 2018 -
 Budapest Advanced Technology Delivery Center, 1 Bence Street Váci Greens - https://www.accenture.com/hu-en/about/company/hungary
 
 #### Projects
@@ -97,6 +97,4 @@ Teacher in IT and IT tech guy.
 Educate IT:IT basics,Op basics, Microsoft Word, Excel, PowerPoint, Gimp
 Full hardware and software support. 
 Procurement of IT and technical product, Institutial network implementation (students, backoffice, teachers) and maintance.
-
-
 
