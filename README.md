@@ -1,9 +1,10 @@
 # Sandor Veres
+![](https://github.com/sandor-veres/CV/profile.jpg?raw=true)
 
 ## Contact Information
 - **Email**: sandorv.sac@gmail.com
 - **Phone**: +36702430907
-- **LinkedIn**: [linkedin](https://hu.linkedin.com/in/sandor-veres-0aa662151)
+- [**LinkedIn**](https://hu.linkedin.com/in/sandor-veres-0aa662151)
 
 ## **Professional Summary**
 Experienced SAP Developer with 7+ years of expertise in SAPUI5, ABAP, and Agile methodologies. Skilled in developing enterprise-grade applications, integrating APIs, and optimizing workflows using modern tools. Passionate about delivering high-quality solutions in collaborative environments.
@@ -31,7 +32,6 @@ Experienced SAP Developer with 7+ years of expertise in SAPUI5, ABAP, and Agile 
 - Intelligent Enterprise User Experience with SAP Fiori 3 (ieux1) - OpenSap
 - SAP Fiori Overview: Design, Develop and Deploy (fiori3) - OpenSap
 - Developing Java-Based Apps on SAP HANA Cloud Platform (hcp2) - OpenSap
-
 
 ## Experience
 ### SAP Senior SAP/FIORI developer specialist
