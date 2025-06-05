@@ -1,4 +1,5 @@
-| # Sandor Veres  | ![](https://github.com/sandor-veres/CV/blob/main/profile.jpg?raw=true) |
+| :---         |     :---:      |          ---: |
+| # Sandor Veres    | git status     | ![](https://github.com/sandor-veres/CV/blob/main/profile.jpg?raw=true)   |
 
 ## Contact Information
 - **Email**: sandorv.sac@gmail.com
