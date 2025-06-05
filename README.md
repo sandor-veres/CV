@@ -1,6 +1,6 @@
 # Sandor Veres 
 
-{: style="text-align: right" }
+<style>body {text-align: right}</style>
 > ![](https://github.com/sandor-veres/CV/blob/main/profile.jpg?raw=true)   
 
 ## Contact Information
