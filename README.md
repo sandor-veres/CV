@@ -1,5 +1,5 @@
 # Sandor Veres
-![](https://github.com/sandor-veres/CV/profile.jpg?raw=true)
+![](https://github.com/sandor-veres/CV/blob/main/profile.jpg?raw=true)
 
 ## Contact Information
 - **Email**: sandorv.sac@gmail.com
